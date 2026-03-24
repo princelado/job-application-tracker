@@ -32,13 +32,16 @@ job-application-tracker/
 - applications.json
 - requirements.txt
 - README.md
-- tests/
+- tests/test_tracker.py
 
 ## How to Run
 
 1. Clone the repository
 2. Navigate to the project folder
 3. Run:
+```bash
+python main.py
+```
 
 ## Example Usage
 
@@ -65,10 +68,8 @@ This project strengthened my understanding of Python file handling, object-orien
 ## Future Improvements
 
 - add editing of full application details
-- sort by newest or oldest
+- sort applications by newest or oldest
 - build a Flask web version
 - improve terminal formatting
 
 
-```bash
-python main.py
