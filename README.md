@@ -50,6 +50,7 @@ JOB APPLICATION TRACKER
 8. Show statistics
 9. Export to CSV
 10. Exit
+```
 
 ## What I Learned
 
