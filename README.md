@@ -34,6 +34,34 @@ job-application-tracker/
 - README.md
 - tests/
 
+## Example Usage
+
+```text
+========================================
+JOB APPLICATION TRACKER
+========================================
+1. Add application
+2. View applications
+3. Update application status
+4. Search by company
+5. Search by role
+6. Filter by status
+7. Delete application
+8. Show statistics
+9. Export to CSV
+10. Exit
+
+## What I Learned
+
+This project strengthened my understanding of Python file handling, object-oriented programming, modular code structure, validation, and testing.
+
+## Future Improvements
+
+- add editing of full application details
+- sort by newest or oldest
+- build a Flask web version
+- improve terminal formatting
+
 ## How to Run
 
 1. Clone the repository
