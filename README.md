@@ -34,6 +34,12 @@ job-application-tracker/
 - README.md
 - tests/
 
+## How to Run
+
+1. Clone the repository
+2. Navigate to the project folder
+3. Run:
+
 ## Example Usage
 
 ```text
@@ -63,11 +69,6 @@ This project strengthened my understanding of Python file handling, object-orien
 - build a Flask web version
 - improve terminal formatting
 
-## How to Run
-
-1. Clone the repository
-2. Navigate to the project folder
-3. Run:
 
 ```bash
 python main.py
